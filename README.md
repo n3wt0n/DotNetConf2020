@@ -5,4 +5,4 @@ Event page: [.NET Conf 2020 by DotNetToscana](https://www.dotnettoscana.org/even
 
 Slides (_Italian_): [SlideShare](https://www.slideshare.net/n3wt0n/ci-cd-per-net-5-facile-con-azure-pipelines-e-github-actions)
 
-Video (_Italian_): TBA
+Video (_Italian_): [Watch on YouTube](https://youtu.be/JfhP2gIzXr0)
